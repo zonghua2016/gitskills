@@ -1,2 +1,2 @@
 # gitskills
-alkjsdlkjfakdf
+Creating a new branch is quick AND simple.
