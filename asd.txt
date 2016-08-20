@@ -1,2 +1,2 @@
 nihao
-Git is a free software ..
+Git have bug yes
