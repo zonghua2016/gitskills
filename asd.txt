@@ -1,10 +1,3 @@
 nihao
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-wozai   dev
-=======
-stash
->>>>>>> Stashed changes
-=======
-stash
->>>>>>> Stashed changes
+
+zuihao de  dev
