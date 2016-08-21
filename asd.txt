@@ -2,9 +2,3 @@ nihao
 zuihao de  dev
 
 gitskills
-
-wozai   dev
-
-1/gitskills
-
-remove conflicts
